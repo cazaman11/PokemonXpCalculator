@@ -1,4 +1,4 @@
-#Pokemon Xp Calculator
+# Pokemon Xp Calculator
 This is a calculator for the core series pokemon games,
 in particular Sword and Shield.
 
