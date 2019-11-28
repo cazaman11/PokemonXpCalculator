@@ -6,7 +6,7 @@ Only the current 400 pokemon in Sword and Shield are
 featured in this calculator.
 
 ## How to Use
-Head to the [GitPage](https://github.com/cazaman11/PokemonXpCalculator)
+Head to the [GitPage](https://cazaman11.github.io/PokemonXpCalculator/)
 
 Select a Pokemon from either name search or dex number
 and set it's current level and then the target level 
