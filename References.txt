@@ -1,0 +1,7 @@
+## References
+This txt just shows what I use and where I got them from.
+
+keyboardMobileWebGLUnity - by eforerog @ https://github.com/eforerog/keyboardMobileWebGLUnity
+	~For allowing input fields to work on mobile.
+
+	
