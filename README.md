@@ -2,8 +2,8 @@
 This is a calculator for the core series pokemon games,
 in particular Sword and Shield.
 
-Only the current 400 pokemon in Sword and Shield are 
-featured in this calculator.
+All current 890 Pokemon are featured in this calculator for new additions
+to Sword and Shield, as well for possible future games that feature xp candy.
 
 ## How to Use
 Head to the [GitPage](https://cazaman11.github.io/PokemonXpCalculator/)
@@ -26,8 +26,13 @@ there.
 
 ### Exact Mode
 When checked that is the exact quanity of candies to get
-to that level without wasting candy. 1 xs candy is always
-included to ensure you reach the target.
+to that level without wasting candy.
+
+### Size Toggle
+Now you can click/tap on a sized candy to not include, in
+exact mode it will automatically calculate down how much
+of the smaller sized candy it requires. Select the candy
+again to enable it again.
 
 ## Feature request and Repost
 I am open to further features of this calculator and will 
