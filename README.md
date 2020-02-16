@@ -47,7 +47,7 @@ creditied with links and notified of where the repost is.
 Technologies.
 
 Pokémon and All Respective Names and Images are Trademark
- & © of Nintendo 1996-2019.
+ & © of Nintendo 1996-2020.
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
