@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pokemon xp Calc",
+"productVersion": "1.4",
+"dataUrl": "WebGL pkmn xp.data.unityweb",
+"wasmCodeUrl": "WebGL pkmn xp.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL pkmn xp.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebGL pkmn xp.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.12f1"
+}
