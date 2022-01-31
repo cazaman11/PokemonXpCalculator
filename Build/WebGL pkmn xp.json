@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Pokemon xp Calc",
-"productVersion": "1.2",
+"productVersion": "1.4",
 "dataUrl": "WebGL pkmn xp.data.unityweb",
 "wasmCodeUrl": "WebGL pkmn xp.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL pkmn xp.wasm.framework.unityweb",
