@@ -1,12 +1,14 @@
 # Pokemon Xp Calculator
 This is a calculator for the core series pokemon games,
-in particular Sword and Shield.
+in particular Sword and Shield
+and Legends Arceus.
 
-All current 898 Pokemon are featured in this calculator for new additions
-to Sword and Shield, as well for possible future games that feature xp candy.
+All current 905 Pokemon are featured in this calculator for new additions
+to Sword and Shield, as well for possible future games that feature xp candy,
+like Legends Arceus.
 
 ## How to Use
-Head to the [GitPage](https://cazaman11.github.io/PokemonXpCalculator/) OR download the [apk for android](https://github.com/cazaman11/PokemonXpCalculator/releases/download/1.3/PokemonXpCalc.apk)
+Head to the [GitPage](https://cazaman11.github.io/PokemonXpCalculator/) OR download the [apk for android](https://github.com/cazaman11/PokemonXpCalculator/releases/download/1.4/PokemonXpCalc.apk)
 
 Select a Pokemon from either name search or dex number
 and set it's current level and then the target level 
@@ -47,7 +49,7 @@ creditied with links and notified of where the repost is.
 Technologies.
 
 Pokémon and All Respective Names and Images are Trademark
- & © of Nintendo 1996-2020.
+ & © of Nintendo 1996-2022.
 
 ## License
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
